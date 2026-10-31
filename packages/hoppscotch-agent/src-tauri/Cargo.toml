@@ -37,7 +37,7 @@ thiserror = "1.0.69"
 tauri-plugin-store = "2.4.1"
 x25519-dalek = { version = "2.0.1", features = ["getrandom"] }
 base16 = "0.2.1"
-aes-gcm = { version = "0.10.3", features = ["aes"] }
+aes-gcm = { version = "0.11.1", features = ["aes"] }
 tauri-plugin-updater = "2.9.0"
 tauri-plugin-dialog = "2.4.2"
 lazy_static = "1.5.0"
